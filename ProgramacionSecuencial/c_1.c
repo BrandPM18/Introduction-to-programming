@@ -1,4 +1,7 @@
 // 01_01.c
+
+/* Ingrese 2 enteros y ejecute las 4 operaciones basicas en forma entera*/
+
 #include<stdio.h>
 void main(void){
 	int m, n;
